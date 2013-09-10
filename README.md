@@ -6,12 +6,14 @@
 
 **How to install:**
 
-```shell
+```
 wget -O /usr/bin/bd https://raw.github.com/vigneshwaranr/bd/master/bd
 chmod +rx /usr/bin/bd
 echo 'alias bd=". bd -s"' >> ~/.bashrc
 source ~/.bashrc
 ```
+
+To enable case-insensitive directory name matching, use `-si` instead of `-s` in the alias.
 
 ---
 
