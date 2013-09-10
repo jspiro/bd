@@ -1,3 +1,7 @@
+This branch contains my preferences merged in and works well on OS X. You need to `brew install --default-names gnu-sed`.
+
+---
+
 # bd
 
 #### Description: Quickly go back to a specific parent directory in linux instead of typing "cd ../../.." redundantly.
